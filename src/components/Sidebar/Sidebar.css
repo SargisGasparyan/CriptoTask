@@ -1,0 +1,16 @@
+.sidebar {
+  margin-top: 30px;
+  border-right: 20px solid #444c7d;
+}
+.title {
+  width: 131px;
+  height: 29px;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 19.5px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-left: 10px;
+  margin-bottom: 50px;
+}

@@ -1,0 +1,26 @@
+.layout-info {
+  width: 75%;
+  height: 100px;
+  flex-shrink: 0;
+  background: linear-gradient(90deg, #edeef2, #ffffff);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.infoName {
+  color: #5c628a;
+  font-family: Poppins;
+  font-size: 13.5px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding-bottom: 5px;
+}
+.infoValue {
+  color: #3a4061;
+  font-family: Poppins;
+  font-size: 18.5px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}

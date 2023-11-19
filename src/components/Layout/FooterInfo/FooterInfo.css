@@ -1,0 +1,64 @@
+.footer-container {
+  width: 100%;
+  height: 159px;
+  flex-shrink: 0;
+  background: linear-gradient(90deg, #edeef2, #ffffff);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.infoFooter {
+  width: 300px;
+  height: 60px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.titleFooter {
+  color: #645f5f;
+  font-family: Poppins;
+  font-size: 15.5px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 9px;
+}
+
+.flex {
+  display: flex;
+}
+
+.line {
+  width: 38px;
+  height: 1px;
+  background-color: gray;
+  margin-top: 12px;
+  margin-left: 15px;
+  position: relative;
+}
+.line svg {
+  position: absolute;
+  top: -18px;
+  left: 15px;
+}
+
+.infoValue {
+  color: #3d4363;
+  font-family: Poppins;
+  font-size: 18.5px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.total {
+  color: #525aaf;
+  font-family: Poppins;
+  font-size: 15.5px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 1.783px;
+}

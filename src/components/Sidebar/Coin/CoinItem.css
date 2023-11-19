@@ -1,0 +1,44 @@
+.coin {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 12px;
+  /* border-right: 20px solid #444c7d; */
+  text-align: left;
+}
+
+.coin:hover {
+  box-sizing: border-box;
+  width: 100%;
+  height: 101px;
+  background: #fff;
+  color: black;
+  border-right: none;
+  text-align: left;
+  align-items: center;
+  box-sizing: content-box;
+  .coins {
+    color: #5c628a;
+  }
+  .svg {
+    margin-right: 22px;
+  }
+}
+
+.coins {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 18.5px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.price {
+  color: #5c628a;
+
+  font-family: Poppins;
+  font-size: 13.5px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}

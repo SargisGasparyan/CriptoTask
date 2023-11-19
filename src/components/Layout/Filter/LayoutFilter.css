@@ -1,0 +1,27 @@
+.layout-filter {
+  display: flex;
+  justify-content: space-between;
+  width: calc(100% -100% / 3);
+  padding: 48px 61px;
+}
+
+.filter-coin {
+  color: #101843;
+  font-family: Poppins;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.MuiToggleButtonGroup-root {
+  background: linear-gradient(0deg, #edeef2 0%, #edeef2 100%);
+  box-shadow: 0px 4px 15px 5px rgba(0, 0, 0, 0.1);
+}
+.MuiButtonBase-root {
+  width: 74px;
+  border: none !important;
+}
+.css-d9c359-MuiButtonBase-root-MuiToggleButton-root.Mui-selected {
+  background-color: #fff;
+}

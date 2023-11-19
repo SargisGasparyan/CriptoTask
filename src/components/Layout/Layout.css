@@ -1,0 +1,14 @@
+.layout {
+  background-color: white;
+  height: 100%;
+}
+.MuiToggleButtonGroup-root {
+  background: linear-gradient(0deg, #edeef2 0%, #edeef2 100%);
+  box-shadow: 0px 4px 15px 5px rgba(0, 0, 0, 0.1);
+}
+.MuiButtonBase-root {
+  width: 74px;
+}
+.css-d9c359-MuiButtonBase-root-MuiToggleButton-root.Mui-selected {
+  background-color: #fff;
+}
